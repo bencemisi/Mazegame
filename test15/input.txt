@@ -1,0 +1,23 @@
+add room -1
+add room 0
+add room 1
+add room 2
+add room 3
+add room 4
+add room 5
+add room 6
+connect 0 6 1
+connect 0 7 1
+connect 1 7 1
+connect 2 7 1
+connect 3 7 1
+connect 4 7 1
+add character student elso 0
+put item elso tvsz
+put item elso transistor
+put item elso ffp2
+put item elso airspray
+put item elso fakeslipstick
+add item holybeermug 0
+start game
+pickup 0

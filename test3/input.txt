@@ -1,0 +1,25 @@
+controller toggle random
+add room -1
+add room 0
+add room 1
+add room 2
+add room 3
+add room 4
+add room 5
+add room 6
+connect 0 6 1
+connect 0 7 1
+connect 1 7 1
+connect 2 7 1
+connect 3 7 1
+connect 4 7 1
+add character student Jomagam 0
+add character student En 0
+add item tvsz 0
+add item ffp2 0
+controller poisonous 0
+controller cursed 0
+start game
+controller split 0
+print room 0
+print room 1

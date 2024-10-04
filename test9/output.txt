@@ -1,0 +1,55 @@
+the first room has been added to the labyrinth
+a room was added as a neighbour of 0.room
+a room was added as a neighbour of 1.room
+a room was added as a neighbour of 2.room
+a room was added as a neighbour of 3.room
+a room was added as a neighbour of 4.room
+a room was added as a neighbour of 5.room
+a room was added as a neighbour of 6.room
+a 0.room became neighbour of 6.room
+a 6.room became neighbour of 0.room
+a 0.room became neighbour of 7.room
+a 7.room became neighbour of 0.room
+a 1.room became neighbour of 7.room
+a 7.room became neighbour of 1.room
+a 2.room became neighbour of 7.room
+a 7.room became neighbour of 2.room
+a 3.room became neighbour of 7.room
+a 7.room became neighbour of 3.room
+a 4.room became neighbour of 7.room
+a 7.room became neighbour of 4.room
+0.room was poisoned by controller
+a slipstick was added to 1.room
+a student was added to 2.room
+a student was added to 3.room
+a holybeermug was added to masodiks inventory
+a airspray was added to masodiks inventory
+a student was added to 4.room
+a tvsz was added to harmadiks inventory
+a wettowel was added to harmadiks inventory
+a student was added to 6.room
+a tvsz was added to negyediks inventory
+a teacher was added to 7.room
+game started
+its elsos turn!
+elso has skipped a turn
+player masodik get protected from teachers
+player harmadik get protected from teachers
+player negyedik get protected from teachers
+tanar has skipped a turn
+its elsos turn!
+player elso moved to 7.room
+player masodik moved to 7.room
+player harmadik moved to 7.room
+player negyedik moved to 7.room
+teacher tried to kill the students in the room
+its masodiks turn!
+player masodik moved to 0.room
+player harmadik stunned teachers in 7.room
+player negyedik moved to 1.room
+tanar is stunned
+its masodiks turn!
+masodik has skipped a turn
+harmadik has skipped a turn
+player negyedik picked up 0.item (slipstick) from 1.room
+Students won the game

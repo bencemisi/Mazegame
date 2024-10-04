@@ -1,0 +1,28 @@
+controller toggle random
+add room -1
+add room 0
+add room 1
+add room 2
+add room 3
+add room 4
+add room 1
+add room 6
+connect 1 4 1
+connect 3 5 1
+connect 1 5 1
+add character teacher Gajdos 0
+add character student En 6
+add item slipstick 2
+add item ffp2 1
+put item En tvsz
+start game
+move 1
+skip
+pickup 0
+use 0
+skip
+move 1
+kill
+move 2
+skip
+pickup 0

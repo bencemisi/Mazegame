@@ -1,0 +1,32 @@
+the first room has been added to the labyrinth
+a room was added as a neighbour of 0.room
+a room was added as a neighbour of 1.room
+a room was added as a neighbour of 2.room
+a room was added as a neighbour of 3.room
+a room was added as a neighbour of 4.room
+a room was added as a neighbour of 5.room
+a room was added as a neighbour of 6.room
+a 0.room became neighbour of 6.room
+a 6.room became neighbour of 0.room
+a 0.room became neighbour of 7.room
+a 7.room became neighbour of 0.room
+a 1.room became neighbour of 7.room
+a 7.room became neighbour of 1.room
+a 2.room became neighbour of 7.room
+a 7.room became neighbour of 2.room
+a 3.room became neighbour of 7.room
+a 7.room became neighbour of 3.room
+a 4.room became neighbour of 7.room
+a 7.room became neighbour of 4.room
+a student was added to 0.room
+a faketvsz was added to Jomagams inventory
+game started
+its Jomagams turn!
+Jomagams inventory:
+details of item 0
+name:faketvsz
+durability: 1
+currentlyUsed: false
+it was fake
+its Jomagams turn!
+Jomagams inventory:

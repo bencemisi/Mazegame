@@ -1,0 +1,30 @@
+the first room has been added to the labyrinth
+a room was added as a neighbour of 0.room
+a room was added as a neighbour of 1.room
+a room was added as a neighbour of 2.room
+a room was added as a neighbour of 3.room
+a room was added as a neighbour of 4.room
+a room was added as a neighbour of 5.room
+a room was added as a neighbour of 6.room
+a 0.room became neighbour of 6.room
+a 6.room became neighbour of 0.room
+a 0.room became neighbour of 7.room
+a 7.room became neighbour of 0.room
+a 1.room became neighbour of 7.room
+a 7.room became neighbour of 1.room
+a 2.room became neighbour of 7.room
+a 7.room became neighbour of 2.room
+a 3.room became neighbour of 7.room
+a 7.room became neighbour of 3.room
+a 4.room became neighbour of 7.room
+a 7.room became neighbour of 4.room
+a student was added to 0.room
+a 0.room is not longer a neighbour of 1.room
+a 1.room is not longer a neighbour of 0.room
+game started
+its Jomagams turn!
+player Jomagam tried to move to 1.room, but could not do it
+a 0.room became neighbour of 1.room
+a 1.room became neighbour of 0.room
+player Jomagam moved to 1.room
+its Jomagams turn!
